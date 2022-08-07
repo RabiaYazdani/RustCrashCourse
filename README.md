@@ -1,0 +1,2 @@
+# RustCrashCourse
+Learning Rust Language 
